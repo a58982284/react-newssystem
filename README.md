@@ -3,6 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+#### start the backend use json-server
+```
+npm -g --save json-server
+json-server --watch db.json --port 8000
+```
 
 In the project directory, you can run:
 

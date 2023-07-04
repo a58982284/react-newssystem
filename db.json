@@ -442,8 +442,8 @@
       "auditState": 2,
       "publishState": 2,
       "createTime": 1615777743864,
-      "star": 1030,
-      "view": 2031,
+      "star": 1042,
+      "view": 2043,
       "id": 1,
       "publishTime": 1615778496314
     },
@@ -458,7 +458,7 @@
       "publishState": 2,
       "createTime": 1615778694831,
       "star": 511,
-      "view": 833,
+      "view": 834,
       "id": 2,
       "publishTime": 1615778911028
     },
@@ -593,7 +593,7 @@
       "publishState": 0,
       "createTime": 1617518218962,
       "star": 0,
-      "view": 0,
+      "view": 1,
       "id": 14
     },
     {
@@ -635,7 +635,7 @@
       "publishState": 2,
       "createTime": 1618039847910,
       "star": 0,
-      "view": 2,
+      "view": 5,
       "id": 18,
       "publishTime": 1618039853615
     },
